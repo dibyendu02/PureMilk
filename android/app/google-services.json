@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271282196623",
+    "project_id": "pure-milk-a2df8",
+    "storage_bucket": "pure-milk-a2df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271282196623:android:6d84a798dea28229e9a0fa",
+        "android_client_info": {
+          "package_name": "com.puremilk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271282196623-01jf4nt9mg8fneokjitm1hgmrt1j4i06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puremilk",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "271282196623-gevoshscs2g1m0uh8bp2n6b7k7kimds4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB96NVPM3NfNckN11HQJ4zjE_qLUjT2Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271282196623-gevoshscs2g1m0uh8bp2n6b7k7kimds4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
